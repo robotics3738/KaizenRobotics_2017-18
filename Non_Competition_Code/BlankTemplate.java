@@ -26,12 +26,10 @@ public class BlankTemplate extends OpMode
 
     @Override
     public void start() {
-        runtime.reset();
     }
 
     @Override
     public void loop() {
-        //CodeHere
     }
 
     @Override
